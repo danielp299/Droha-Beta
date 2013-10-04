@@ -29,3 +29,5 @@ war/WEB-INF/classes/
 *.RTF  diff=astextplain
 
 Droha-html
+#libgdx imagenes basicas
+dev-images
