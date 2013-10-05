@@ -1,0 +1,1596 @@
+
+empaquetado.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cursor/0001
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+cursor/0002
+  rotate: false
+  xy: 103, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+empaquetado2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+escenario/bosque
+  rotate: false
+  xy: 1, 83
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+escenario/grass
+  rotate: false
+  xy: 163, 143
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+escenario/grass2
+  rotate: false
+  xy: 1, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+escenario/roca
+  rotate: false
+  xy: 163, 127
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+escenario/roca2
+  rotate: false
+  xy: 265, 235
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+
+empaquetado3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+interfaz/experiencia
+  rotate: false
+  xy: 1, 374
+  size: 719, 79
+  orig: 719, 79
+  offset: 0, 0
+  index: -1
+interfaz/filoprofundo
+  rotate: false
+  xy: 1, 306
+  size: 599, 66
+  orig: 599, 66
+  offset: 0, 0
+  index: -1
+interfaz/filosuperficial
+  rotate: false
+  xy: 1, 238
+  size: 599, 66
+  orig: 599, 66
+  offset: 0, 0
+  index: -1
+interfaz/set
+  rotate: false
+  xy: 602, 279
+  size: 118, 93
+  orig: 118, 93
+  offset: 0, 0
+  index: -1
+interfaz/empunadura
+  rotate: false
+  xy: 722, 1
+  size: 88, 452
+  orig: 88, 452
+  offset: 0, 0
+  index: -1
+interfaz/vida
+  rotate: false
+  xy: 812, 2
+  size: 86, 451
+  orig: 86, 451
+  offset: 0, 0
+  index: -1
+interfaz/setseparador
+  rotate: false
+  xy: 1, 168
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+interfaz/skill1
+  rotate: false
+  xy: 900, 409
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+interfaz/skill2
+  rotate: false
+  xy: 1, 122
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+interfaz/skill3
+  rotate: false
+  xy: 83, 192
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+interfaz/skill4
+  rotate: false
+  xy: 900, 363
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+interfaz/set2a
+  rotate: false
+  xy: 602, 252
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+interfaz/set2d
+  rotate: false
+  xy: 942, 428
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+interfaz/set1a
+  rotate: false
+  xy: 1, 94
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+interfaz/set1d
+  rotate: false
+  xy: 43, 140
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+interfaz/lvl
+  rotate: false
+  xy: 83, 179
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+interfaz/0
+  rotate: false
+  xy: 125, 224
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+interfaz/2
+  rotate: false
+  xy: 900, 349
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+interfaz/4
+  rotate: false
+  xy: 602, 238
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+interfaz/7
+  rotate: false
+  xy: 622, 265
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+interfaz/5
+  rotate: false
+  xy: 942, 414
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+interfaz/6
+  rotate: false
+  xy: 962, 441
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+interfaz/8
+  rotate: false
+  xy: 1, 80
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+interfaz/9
+  rotate: false
+  xy: 14, 108
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+interfaz/3
+  rotate: false
+  xy: 43, 126
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+interfaz/1
+  rotate: false
+  xy: 56, 154
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+
+empaquetado4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+malo1/001
+  rotate: false
+  xy: 1, 736
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1/002
+  rotate: false
+  xy: 1, 491
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1/003
+  rotate: false
+  xy: 363, 736
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1/004
+  rotate: false
+  xy: 1, 246
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1/005
+  rotate: false
+  xy: 363, 491
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1/006
+  rotate: false
+  xy: 1, 1
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1/007
+  rotate: false
+  xy: 363, 246
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1/008
+  rotate: false
+  xy: 363, 1
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+
+empaquetado5.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+malo1/009
+  rotate: false
+  xy: 1, 1
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1/010
+  rotate: false
+  xy: 363, 1
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+
+empaquetado6.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+malo1ataca/0001
+  rotate: false
+  xy: 1, 736
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1ataca/0002
+  rotate: false
+  xy: 1, 491
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1ataca/0003
+  rotate: false
+  xy: 363, 736
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1ataca/0004
+  rotate: false
+  xy: 1, 246
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1ataca/0005
+  rotate: false
+  xy: 363, 491
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1ataca/0006
+  rotate: false
+  xy: 1, 1
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1ataca/0007
+  rotate: false
+  xy: 363, 246
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1ataca/0008
+  rotate: false
+  xy: 363, 1
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+
+empaquetado7.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+malo1ataca/0009
+  rotate: false
+  xy: 1, 1
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+malo1ataca/0010
+  rotate: false
+  xy: 363, 1
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+
+empaquetado8.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+malo2/0003
+  rotate: false
+  xy: 1, 489
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+malo2/0004
+  rotate: false
+  xy: 1, 1
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+
+empaquetado9.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+malo2/0005
+  rotate: false
+  xy: 1, 489
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+malo2/0006
+  rotate: false
+  xy: 1, 1
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+
+empaquetado10.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+malo2/0007
+  rotate: false
+  xy: 1, 489
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+malo2/0008
+  rotate: false
+  xy: 1, 1
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+
+empaquetado11.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+malo2/0009
+  rotate: false
+  xy: 1, 488
+  size: 720, 486
+  orig: 720, 486
+  offset: 0, 0
+  index: -1
+malo2/0001
+  rotate: false
+  xy: 1, 1
+  size: 720, 485
+  orig: 720, 485
+  offset: 0, 0
+  index: -1
+
+empaquetado12.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+malo2/0002
+  rotate: false
+  xy: 1, 488
+  size: 720, 485
+  orig: 720, 485
+  offset: 0, 0
+  index: -1
+malo2/0010
+  rotate: false
+  xy: 1, 1
+  size: 720, 485
+  orig: 720, 485
+  offset: 0, 0
+  index: -1
+
+empaquetado13.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+personaje_ataca_basico/0002
+  rotate: false
+  xy: 1, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_ataca_basico/0004
+  rotate: false
+  xy: 1, 245
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_ataca_basico/0006
+  rotate: false
+  xy: 181, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_ataca_basico/0008
+  rotate: false
+  xy: 1, 123
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_ataca_basico/0010
+  rotate: false
+  xy: 181, 245
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_ataca_basico/0012
+  rotate: false
+  xy: 361, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_ataca_basico/0014
+  rotate: false
+  xy: 1, 1
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_ataca_basico/0016
+  rotate: false
+  xy: 181, 123
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_ataca_basico/0017
+  rotate: false
+  xy: 361, 245
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_ataca_basico/0018
+  rotate: false
+  xy: 541, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_ataca_basico/0019
+  rotate: false
+  xy: 181, 1
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_ataca_basico/0020
+  rotate: false
+  xy: 361, 123
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+
+empaquetado14.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+personaje_camina/0001
+  rotate: false
+  xy: 1, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_camina/0003
+  rotate: false
+  xy: 1, 245
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_camina/0005
+  rotate: false
+  xy: 181, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_camina/0007
+  rotate: false
+  xy: 1, 123
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_camina/0009
+  rotate: false
+  xy: 181, 245
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_camina/0011
+  rotate: false
+  xy: 361, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_camina/0013
+  rotate: false
+  xy: 1, 1
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_camina/0015
+  rotate: false
+  xy: 181, 123
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_camina/0016
+  rotate: false
+  xy: 361, 245
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_camina/0017
+  rotate: false
+  xy: 541, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_camina/0019
+  rotate: false
+  xy: 181, 1
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+personaje_camina/0020
+  rotate: false
+  xy: 361, 123
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+
+empaquetado15.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poder_1_guerrero/0002
+  rotate: false
+  xy: 1, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0003
+  rotate: false
+  xy: 1, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0004
+  rotate: false
+  xy: 153, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0005
+  rotate: false
+  xy: 1, 611
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0006
+  rotate: false
+  xy: 153, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0007
+  rotate: false
+  xy: 305, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0008
+  rotate: false
+  xy: 1, 489
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0009
+  rotate: false
+  xy: 153, 611
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0010
+  rotate: false
+  xy: 305, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0011
+  rotate: false
+  xy: 457, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0012
+  rotate: false
+  xy: 1, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0013
+  rotate: false
+  xy: 153, 489
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0014
+  rotate: false
+  xy: 305, 611
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0015
+  rotate: false
+  xy: 457, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0016
+  rotate: false
+  xy: 609, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0017
+  rotate: false
+  xy: 1, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0018
+  rotate: false
+  xy: 153, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0019
+  rotate: false
+  xy: 305, 489
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0020
+  rotate: false
+  xy: 457, 611
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0021
+  rotate: false
+  xy: 609, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0022
+  rotate: false
+  xy: 761, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0023
+  rotate: false
+  xy: 1, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0024
+  rotate: false
+  xy: 153, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0025
+  rotate: false
+  xy: 305, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0026
+  rotate: false
+  xy: 457, 489
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0027
+  rotate: false
+  xy: 609, 611
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0028
+  rotate: false
+  xy: 761, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0029
+  rotate: false
+  xy: 1, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero/0030
+  rotate: false
+  xy: 153, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+
+empaquetado16.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poder_1_guerrero_/0001
+  rotate: false
+  xy: 1, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0002
+  rotate: false
+  xy: 1, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0003
+  rotate: false
+  xy: 153, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0004
+  rotate: false
+  xy: 1, 611
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0005
+  rotate: false
+  xy: 153, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0006
+  rotate: false
+  xy: 305, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0007
+  rotate: false
+  xy: 1, 489
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0008
+  rotate: false
+  xy: 153, 611
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0009
+  rotate: false
+  xy: 305, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0010
+  rotate: false
+  xy: 457, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0011
+  rotate: false
+  xy: 1, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0012
+  rotate: false
+  xy: 153, 489
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0013
+  rotate: false
+  xy: 305, 611
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0014
+  rotate: false
+  xy: 457, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0015
+  rotate: false
+  xy: 609, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0016
+  rotate: false
+  xy: 1, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0017
+  rotate: false
+  xy: 153, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0018
+  rotate: false
+  xy: 305, 489
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0019
+  rotate: false
+  xy: 457, 611
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0020
+  rotate: false
+  xy: 609, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0021
+  rotate: false
+  xy: 761, 855
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0022
+  rotate: false
+  xy: 1, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0023
+  rotate: false
+  xy: 153, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0024
+  rotate: false
+  xy: 305, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0025
+  rotate: false
+  xy: 457, 489
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0026
+  rotate: false
+  xy: 609, 611
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0027
+  rotate: false
+  xy: 761, 733
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0028
+  rotate: false
+  xy: 1, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0029
+  rotate: false
+  xy: 153, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_1_guerrero_/0030
+  rotate: false
+  xy: 305, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+
+empaquetado17.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poder_2_guerrero/0001
+  rotate: false
+  xy: 1, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0002
+  rotate: false
+  xy: 1, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0004
+  rotate: false
+  xy: 153, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0005
+  rotate: false
+  xy: 1, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0008
+  rotate: false
+  xy: 153, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0010
+  rotate: false
+  xy: 305, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0012
+  rotate: false
+  xy: 1, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0014
+  rotate: false
+  xy: 153, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0015
+  rotate: false
+  xy: 305, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0017
+  rotate: false
+  xy: 457, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0019
+  rotate: false
+  xy: 153, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0021
+  rotate: false
+  xy: 305, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0022
+  rotate: false
+  xy: 457, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0024
+  rotate: false
+  xy: 609, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero/0025
+  rotate: false
+  xy: 305, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+
+empaquetado18.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poder_2_guerrero_/0001
+  rotate: false
+  xy: 1, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0002
+  rotate: false
+  xy: 1, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0004
+  rotate: false
+  xy: 153, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0005
+  rotate: false
+  xy: 1, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0008
+  rotate: false
+  xy: 153, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0010
+  rotate: false
+  xy: 305, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0012
+  rotate: false
+  xy: 1, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0014
+  rotate: false
+  xy: 153, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0015
+  rotate: false
+  xy: 305, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0017
+  rotate: false
+  xy: 457, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0019
+  rotate: false
+  xy: 153, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0021
+  rotate: false
+  xy: 305, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0022
+  rotate: false
+  xy: 457, 245
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0024
+  rotate: false
+  xy: 609, 367
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_2_guerrero_/0025
+  rotate: false
+  xy: 305, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+
+empaquetado19.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poder_3_guerrero/0001
+  rotate: false
+  xy: 1, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0002
+  rotate: false
+  xy: 1, 245
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0004
+  rotate: false
+  xy: 181, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0005
+  rotate: false
+  xy: 1, 123
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0007
+  rotate: false
+  xy: 181, 245
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0008
+  rotate: false
+  xy: 361, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0009
+  rotate: false
+  xy: 1, 1
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0010
+  rotate: false
+  xy: 181, 123
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0011
+  rotate: false
+  xy: 361, 245
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0012
+  rotate: false
+  xy: 541, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0014
+  rotate: false
+  xy: 181, 1
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0015
+  rotate: false
+  xy: 361, 123
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0016
+  rotate: false
+  xy: 541, 245
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0017
+  rotate: false
+  xy: 721, 367
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+poder_3_guerrero/0019
+  rotate: false
+  xy: 361, 1
+  size: 178, 120
+  orig: 178, 120
+  offset: 0, 0
+  index: -1
+
+empaquetado20.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poder_4_guerrero/0002
+  rotate: false
+  xy: 1, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero/0003
+  rotate: false
+  xy: 1, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero/0004
+  rotate: false
+  xy: 153, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero/0005
+  rotate: false
+  xy: 153, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero/0006
+  rotate: false
+  xy: 305, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero/0007
+  rotate: false
+  xy: 305, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero/0008
+  rotate: false
+  xy: 457, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero/0009
+  rotate: false
+  xy: 457, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero/0010
+  rotate: false
+  xy: 609, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero/0011
+  rotate: false
+  xy: 609, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero/0012
+  rotate: false
+  xy: 761, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+
+empaquetado21.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poder_4_guerrero_/0002
+  rotate: false
+  xy: 1, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero_/0003
+  rotate: false
+  xy: 1, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero_/0004
+  rotate: false
+  xy: 153, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero_/0005
+  rotate: false
+  xy: 153, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero_/0006
+  rotate: false
+  xy: 305, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero_/0007
+  rotate: false
+  xy: 305, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero_/0008
+  rotate: false
+  xy: 457, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero_/0009
+  rotate: false
+  xy: 457, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero_/0010
+  rotate: false
+  xy: 609, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero_/0011
+  rotate: false
+  xy: 609, 1
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
+poder_4_guerrero_/0012
+  rotate: false
+  xy: 761, 123
+  size: 150, 120
+  orig: 150, 120
+  offset: 0, 0
+  index: -1
