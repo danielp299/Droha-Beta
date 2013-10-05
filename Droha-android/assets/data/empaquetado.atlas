@@ -22,37 +22,51 @@ empaquetado2.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+escenario/fondoMenu
+  rotate: false
+  xy: 1, 499
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+escenario/mapa
+  rotate: false
+  xy: 1, 17
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
 escenario/bosque
   rotate: false
-  xy: 1, 83
+  xy: 803, 819
   size: 160, 160
   orig: 160, 160
   offset: 0, 0
   index: -1
 escenario/grass
   rotate: false
-  xy: 163, 143
+  xy: 803, 717
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 escenario/grass2
   rotate: false
-  xy: 1, 1
+  xy: 803, 635
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 escenario/roca
   rotate: false
-  xy: 163, 127
+  xy: 1, 1
   size: 15, 14
   orig: 15, 14
   offset: 0, 0
   index: -1
 escenario/roca2
   rotate: false
-  xy: 265, 235
+  xy: 965, 971
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
@@ -504,16 +518,23 @@ empaquetado13.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+menu/fondoMenu
+  rotate: false
+  xy: 1, 515
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
 menu/forte
   rotate: false
-  xy: 1, 176
+  xy: 1, 1
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 menu/boton1
   rotate: false
-  xy: 1, 1
+  xy: 515, 340
   size: 279, 173
   orig: 279, 173
   offset: 0, 0
@@ -909,221 +930,6 @@ empaquetado17.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-poder_1_guerrero_/0001
-  rotate: false
-  xy: 1, 855
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0002
-  rotate: false
-  xy: 1, 733
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0003
-  rotate: false
-  xy: 153, 855
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0004
-  rotate: false
-  xy: 1, 611
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0005
-  rotate: false
-  xy: 153, 733
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0006
-  rotate: false
-  xy: 305, 855
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0007
-  rotate: false
-  xy: 1, 489
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0008
-  rotate: false
-  xy: 153, 611
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0009
-  rotate: false
-  xy: 305, 733
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0010
-  rotate: false
-  xy: 457, 855
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0011
-  rotate: false
-  xy: 1, 367
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0012
-  rotate: false
-  xy: 153, 489
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0013
-  rotate: false
-  xy: 305, 611
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0014
-  rotate: false
-  xy: 457, 733
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0015
-  rotate: false
-  xy: 609, 855
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0016
-  rotate: false
-  xy: 1, 245
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0017
-  rotate: false
-  xy: 153, 367
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0018
-  rotate: false
-  xy: 305, 489
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0019
-  rotate: false
-  xy: 457, 611
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0020
-  rotate: false
-  xy: 609, 733
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0021
-  rotate: false
-  xy: 761, 855
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0022
-  rotate: false
-  xy: 1, 123
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0023
-  rotate: false
-  xy: 153, 245
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0024
-  rotate: false
-  xy: 305, 367
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0025
-  rotate: false
-  xy: 457, 489
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0026
-  rotate: false
-  xy: 609, 611
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0027
-  rotate: false
-  xy: 761, 733
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0028
-  rotate: false
-  xy: 1, 1
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0029
-  rotate: false
-  xy: 153, 123
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_1_guerrero_/0030
-  rotate: false
-  xy: 305, 245
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-
-empaquetado18.png
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
 poder_2_guerrero/0001
   rotate: false
   xy: 1, 367
@@ -1230,117 +1036,7 @@ poder_2_guerrero/0025
   offset: 0, 0
   index: -1
 
-empaquetado19.png
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-poder_2_guerrero_/0001
-  rotate: false
-  xy: 1, 367
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0002
-  rotate: false
-  xy: 1, 245
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0004
-  rotate: false
-  xy: 153, 367
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0005
-  rotate: false
-  xy: 1, 123
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0008
-  rotate: false
-  xy: 153, 245
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0010
-  rotate: false
-  xy: 305, 367
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0012
-  rotate: false
-  xy: 1, 1
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0014
-  rotate: false
-  xy: 153, 123
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0015
-  rotate: false
-  xy: 305, 245
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0017
-  rotate: false
-  xy: 457, 367
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0019
-  rotate: false
-  xy: 153, 1
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0021
-  rotate: false
-  xy: 305, 123
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0022
-  rotate: false
-  xy: 457, 245
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0024
-  rotate: false
-  xy: 609, 367
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_2_guerrero_/0025
-  rotate: false
-  xy: 305, 1
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-
-empaquetado20.png
+empaquetado18.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -1450,7 +1146,7 @@ poder_3_guerrero/0019
   offset: 0, 0
   index: -1
 
-empaquetado21.png
+empaquetado19.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -1525,88 +1221,6 @@ poder_4_guerrero/0011
   offset: 0, 0
   index: -1
 poder_4_guerrero/0012
-  rotate: false
-  xy: 761, 123
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-
-empaquetado22.png
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-poder_4_guerrero_/0002
-  rotate: false
-  xy: 1, 123
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_4_guerrero_/0003
-  rotate: false
-  xy: 1, 1
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_4_guerrero_/0004
-  rotate: false
-  xy: 153, 123
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_4_guerrero_/0005
-  rotate: false
-  xy: 153, 1
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_4_guerrero_/0006
-  rotate: false
-  xy: 305, 123
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_4_guerrero_/0007
-  rotate: false
-  xy: 305, 1
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_4_guerrero_/0008
-  rotate: false
-  xy: 457, 123
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_4_guerrero_/0009
-  rotate: false
-  xy: 457, 1
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_4_guerrero_/0010
-  rotate: false
-  xy: 609, 123
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_4_guerrero_/0011
-  rotate: false
-  xy: 609, 1
-  size: 150, 120
-  orig: 150, 120
-  offset: 0, 0
-  index: -1
-poder_4_guerrero_/0012
   rotate: false
   xy: 761, 123
   size: 150, 120

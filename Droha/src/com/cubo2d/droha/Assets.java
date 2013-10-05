@@ -44,14 +44,16 @@ public class Assets {
 			fuenteBoton.setScale(2f);
 		}
 		
+		
 		skin = new Skin();
 		skin.add("boton", new TextureRegion(atlas.findRegion("menu/boton1")));
+		skin.add("fondoMenu", new TextureRegion(atlas.findRegion("escenario/fondoMenu")));
 		
 		
 		TextButtonStyle textButtonStyle = new TextButtonStyle();
 		textButtonStyle.up = skin.newDrawable("boton",Color.WHITE);
 		textButtonStyle.down = skin.newDrawable("boton", Color.GREEN);
-		textButtonStyle.over = skin.newDrawable("boton", Color.LIGHT_GRAY);
+		textButtonStyle.over = skin.newDrawable("boton", new Color(1, 0.5f, 1, 0.95f));
 		textButtonStyle.font = fuenteBoton;
 		skin.add("default", textButtonStyle);
 		

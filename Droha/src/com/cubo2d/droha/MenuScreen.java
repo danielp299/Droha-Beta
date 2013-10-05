@@ -31,6 +31,7 @@ public class MenuScreen implements Screen {
 	public void menuPrincipal(){
 		menuPrincipal = new Table();
 		menuPrincipal.setBounds(0, 0, Gdx.graphics.getWidth(), Gdx.graphics.getHeight());
+		menuPrincipal.setBackground(Assets.skin.getDrawable("fondoMenu"));
 		menuPrincipal.setVisible(true);
 		
 		pNuevo = new TextButton("Nuevo", Assets.skin);
@@ -60,19 +61,18 @@ public class MenuScreen implements Screen {
 	@Override
 	public void show() {
 		// TODO Auto-generated method stub
-		
+		Gdx.input.setInputProcessor(stage);
 	}
 
 	@Override
 	public void hide() {
 		// TODO Auto-generated method stub
-		
+		Gdx.input.setInputProcessor(null);
 	}
 
 	@Override
 	public void pause() {
 		// TODO Auto-generated method stub
-		
 	}
 
 	@Override
