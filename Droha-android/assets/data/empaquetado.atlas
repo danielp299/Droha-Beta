@@ -504,6 +504,25 @@ empaquetado13.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+menu/forte
+  rotate: false
+  xy: 1, 176
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+menu/boton1
+  rotate: false
+  xy: 1, 1
+  size: 279, 173
+  orig: 279, 173
+  offset: 0, 0
+  index: -1
+
+empaquetado14.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
 personaje_ataca_basico/0002
   rotate: false
   xy: 1, 367
@@ -589,7 +608,7 @@ personaje_ataca_basico/0020
   offset: 0, 0
   index: -1
 
-empaquetado14.png
+empaquetado15.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -678,7 +697,7 @@ personaje_camina/0020
   offset: 0, 0
   index: -1
 
-empaquetado15.png
+empaquetado16.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -886,7 +905,7 @@ poder_1_guerrero/0030
   offset: 0, 0
   index: -1
 
-empaquetado16.png
+empaquetado17.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -1101,7 +1120,7 @@ poder_1_guerrero_/0030
   offset: 0, 0
   index: -1
 
-empaquetado17.png
+empaquetado18.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -1211,7 +1230,7 @@ poder_2_guerrero/0025
   offset: 0, 0
   index: -1
 
-empaquetado18.png
+empaquetado19.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -1321,7 +1340,7 @@ poder_2_guerrero_/0025
   offset: 0, 0
   index: -1
 
-empaquetado19.png
+empaquetado20.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -1431,7 +1450,7 @@ poder_3_guerrero/0019
   offset: 0, 0
   index: -1
 
-empaquetado20.png
+empaquetado21.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -1513,7 +1532,7 @@ poder_4_guerrero/0012
   offset: 0, 0
   index: -1
 
-empaquetado21.png
+empaquetado22.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none

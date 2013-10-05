@@ -1,26 +1,14 @@
 package com.cubo2d.droha;
+import com.badlogic.gdx.Game;
 
-import com.badlogic.gdx.ApplicationListener;
-import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.graphics.GL10;
-import com.badlogic.gdx.graphics.OrthographicCamera;
-import com.badlogic.gdx.graphics.Texture;
-import com.badlogic.gdx.graphics.Texture.TextureFilter;
-import com.badlogic.gdx.graphics.g2d.Sprite;
-import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import com.badlogic.gdx.graphics.g2d.TextureRegion;
-
-public class MyGame implements ApplicationListener {
-	//private OrthographicCamera camera;
-	//private SpriteBatch batch;
-	//private Texture texture;
-	//private Sprite sprite;
+public class MyGame extends Game {
+	private MenuScreen menu;
 	
 	@Override
 	public void create() {		
-		float w = Gdx.graphics.getWidth();
-		float h = Gdx.graphics.getHeight();
-		
+		Assets.cargar();
+		menu = new MenuScreen(this);
+		setScreen(menu);
 	}
 
 	@Override
@@ -28,10 +16,8 @@ public class MyGame implements ApplicationListener {
 	}
 
 	@Override
-	public void render() {		
-		Gdx.gl.glClearColor(1, 1, 1, 1);
-		Gdx.gl.glClear(GL10.GL_COLOR_BUFFER_BIT);
-		
+	public void render() {
+		super.render();
 	}
 
 	@Override
